@@ -8,7 +8,7 @@
 For this project, I was interested in using the listing data for Airbnb in Seattle to discover what aspects affect the price.
 
 ## File Description
-There is one jupyter notebook here showing all the work related to the question above, and the Airbnb Seattle listings data from Kaggle, which can be found [here](https://www.kaggle.com/datasets/airbnb/seattle)
+There is one jupyter notebook here showing all the work related to the question above, and the Airbnb Seattle listings data from Kaggle, which can be found [here](https://www.kaggle.com/datasets/airbnb/seattle).
 
 ## Results
 Top 5 features that affect price:
@@ -19,4 +19,4 @@ Top 5 features that affect price:
    - Area(Cascade)
 
 ## Licensing, Acknowledgements
-Thanks to Airbnb and Kaggle for the data. The data used in this project can be found [here](https://www.kaggle.com/datasets/airbnb/seattle). Feel free to use any of the code in the jupyter notebook.
+Thanks to Airbnb and Kaggle for the data. Feel free to use any of the code in the jupyter notebook.
