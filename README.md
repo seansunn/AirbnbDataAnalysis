@@ -14,6 +14,7 @@ For this project, I was interested in using the listing data for Airbnb in Seatt
 There is one jupyter notebook here showing all the work related to the question above, and the Airbnb Seattle datasets from Kaggle packed in zip file. The datasets can be found [here](https://www.kaggle.com/datasets/airbnb/seattle).
 
 ## Results
+See the blog [here](https://medium.com/@seansunn/traveling-to-seattle-look-at-this-guide-to-save-money-for-your-stay-5f7b56a73815) for the detailed results
 Busiest time in Seattle:
    - 1/3 ~ 1/5
 
